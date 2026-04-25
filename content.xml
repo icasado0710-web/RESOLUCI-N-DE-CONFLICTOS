@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260422175230XAOJ4D</value>
+    <value>202604251505008RHIQ1</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260422175230GJOXG2</value>
+    <value>202604251505004HDHYY</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -56,7 +56,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1776857610253</value>
+    <value>1777120150368</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -89,7 +89,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mo9z56nf-m7bibrqnx</odePageId>
+  <odePageId>page-moebgbwa-j2ylfm58z</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Página nueva</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -125,7 +125,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo9z56nf-m7bibrqnx</odePageId>
+      <odePageId>page-moebgbwa-j2ylfm58z</odePageId>
       <odeBlockId>block-1776683611644-lipzeb4nt</odeBlockId>
       <blockName>GUÍA DIDÁCTICA</blockName>
       <iconName></iconName>
@@ -154,7 +154,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo9z56nf-m7bibrqnx</odePageId>
+          <odePageId>page-moebgbwa-j2ylfm58z</odePageId>
           <odeBlockId>block-1776683611644-lipzeb4nt</odeBlockId>
           <odeIdeviceId>idevice-1776683611638-lu9d2mdha</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -207,7 +207,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo9z56nl-di3g7undt</odePageId>
+  <odePageId>page-moebgbwf-g3eb78ivb</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>PROYECTO</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
@@ -243,7 +243,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo9z56nl-di3g7undt</odePageId>
+      <odePageId>page-moebgbwf-g3eb78ivb</odePageId>
       <odeBlockId>block-1776687231646-jlpmad1sb</odeBlockId>
       <blockName>PROYECTO: DESCRIPCIÓN DEL PROYECTO</blockName>
       <iconName>letters</iconName>
@@ -272,7 +272,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo9z56nl-di3g7undt</odePageId>
+          <odePageId>page-moebgbwf-g3eb78ivb</odePageId>
           <odeBlockId>block-1776687231646-jlpmad1sb</odeBlockId>
           <odeIdeviceId>idevice-1776687231643-b0w7ih8km</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -302,7 +302,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo9z56nm-q7p8zokrq</odePageId>
+  <odePageId>page-moebgbwg-2lwhsxnu7</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>LÍNEA TEMPORAL</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
@@ -338,7 +338,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo9z56nm-q7p8zokrq</odePageId>
+      <odePageId>page-moebgbwg-2lwhsxnu7</odePageId>
       <odeBlockId>block-1776694259830-1uk34u92t</odeBlockId>
       <blockName>LÍNEA TEMPORAL DEL PROYECTO</blockName>
       <iconName>video</iconName>
@@ -367,7 +367,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo9z56nm-q7p8zokrq</odePageId>
+          <odePageId>page-moebgbwg-2lwhsxnu7</odePageId>
           <odeBlockId>block-1776694259830-1uk34u92t</odeBlockId>
           <odeIdeviceId>idevice-1776694259827-25ocbwek4</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -419,8 +419,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo9z56nm-y7jzhe0bz</odePageId>
-  <odeParentPageId>page-mo9z56nm-q7p8zokrq</odeParentPageId>
+  <odePageId>page-moebgbwh-1ipb9atly</odePageId>
+  <odeParentPageId>page-moebgbwg-2lwhsxnu7</odeParentPageId>
   <pageName>LÍNEA TEMPORAL</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -455,7 +455,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo9z56nm-y7jzhe0bz</odePageId>
+      <odePageId>page-moebgbwh-1ipb9atly</odePageId>
       <odeBlockId>block-1776694981062-r3om0p15i</odeBlockId>
       <blockName>ROLE PLAYING</blockName>
       <iconName>video</iconName>
@@ -484,7 +484,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo9z56nm-y7jzhe0bz</odePageId>
+          <odePageId>page-moebgbwh-1ipb9atly</odePageId>
           <odeBlockId>block-1776694981062-r3om0p15i</odeBlockId>
           <odeIdeviceId>idevice-1776694981060-e4ihhwdml</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -532,8 +532,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo9z56nn-ge86i285y</odePageId>
-  <odeParentPageId>page-mo9z56nm-q7p8zokrq</odeParentPageId>
+  <odePageId>page-moebgbwh-7ulhfjjk7</odePageId>
+  <odeParentPageId>page-moebgbwg-2lwhsxnu7</odeParentPageId>
   <pageName>LÍNEA TEMPORAL</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -568,7 +568,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo9z56nn-ge86i285y</odePageId>
+      <odePageId>page-moebgbwh-7ulhfjjk7</odePageId>
       <odeBlockId>block-1776695199051-u0ssgac60</odeBlockId>
       <blockName>ANÁLISIS DE CASOS</blockName>
       <iconName>video</iconName>
@@ -597,7 +597,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo9z56nn-ge86i285y</odePageId>
+          <odePageId>page-moebgbwh-7ulhfjjk7</odePageId>
           <odeBlockId>block-1776695199051-u0ssgac60</odeBlockId>
           <odeIdeviceId>idevice-1776695199049-twzmvtbmo</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -645,8 +645,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mo9z56nn-rpcded0qg</odePageId>
-  <odeParentPageId>page-mo9z56nm-q7p8zokrq</odeParentPageId>
+  <odePageId>page-moebgbwi-uvcpuz2ip</odePageId>
+  <odeParentPageId>page-moebgbwg-2lwhsxnu7</odeParentPageId>
   <pageName>LÍNEA TEMPORAL</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -681,7 +681,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mo9z56nn-rpcded0qg</odePageId>
+      <odePageId>page-moebgbwi-uvcpuz2ip</odePageId>
       <odeBlockId>block-1776695366933-iayjfqqzs</odeBlockId>
       <blockName>CONTRATO DE EQUIPO</blockName>
       <iconName>video</iconName>
@@ -710,7 +710,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mo9z56nn-rpcded0qg</odePageId>
+          <odePageId>page-moebgbwi-uvcpuz2ip</odePageId>
           <odeBlockId>block-1776695366933-iayjfqqzs</odeBlockId>
           <odeIdeviceId>idevice-1776695366930-2qy471int</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -758,19 +758,43 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1776857919788-5rgnrmdwg</odePageId>
+  <odePageId>page-moebgbwi-sz798xu51</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>RECURSOS</pageName>
-  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>RECURSOS</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>RECURSOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1776857919788-5rgnrmdwg</odePageId>
+      <odePageId>page-moebgbwi-sz798xu51</odePageId>
       <odeBlockId>block-1776857926695-iwh4mesj4</odeBlockId>
       <blockName>RECURSOS: CURACIÓN DE CONTENIDO</blockName>
       <iconName>observe</iconName>
@@ -799,7 +823,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1776857919788-5rgnrmdwg</odePageId>
+          <odePageId>page-moebgbwi-sz798xu51</odePageId>
           <odeBlockId>block-1776857926695-iwh4mesj4</odeBlockId>
           <odeIdeviceId>idevice-1776857926694-drnpznq4w</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -812,6 +836,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1776857926694-drnpznq4w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Material para trabajar la conflictividad en el aula: </p>\n<p><a href=\"https://padlet.com/icuberosc/resoluci-n-de-conflictos-12ksa6th6vq5ihkr\" title=\"\">https://padlet.com/icuberosc/resoluci-n-de-conflictos-12ksa6th6vq5ihkr</a></p>\n<p>Material de recursos para gestionar las tutorías: </p>\n<p><a href=\"https://wakelet.com/wake/-sHjc9g_7YM-x2DNlw3sy\" title=\"\">https://wakelet.com/wake/-sHjc9g_7YM-x2DNlw3sy</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -819,19 +855,43 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1776858337751-jlb8jcrai</odePageId>
+  <odePageId>page-moebgbwj-99tyxkdr1</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>CRITERIOS DE EVALUACIÓN </pageName>
-  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>CRITERIOS DE EVALUACIÓN </value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRITERIOS DE EVALUACIÓN </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1776858337751-jlb8jcrai</odePageId>
+      <odePageId>page-moebgbwj-99tyxkdr1</odePageId>
       <odeBlockId>block-1776858351556-s1clxkwzi</odeBlockId>
       <blockName>CRITERIOS DE EVALUACIÓN PARA CADA ACTIVIDAD</blockName>
       <iconName>chrono</iconName>
@@ -860,17 +920,29 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1776858337751-jlb8jcrai</odePageId>
+          <odePageId>page-moebgbwj-99tyxkdr1</odePageId>
           <odeBlockId>block-1776858351556-s1clxkwzi</odeBlockId>
           <odeIdeviceId>idevice-1776858351554-15a8bzdeg</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>A continuación podéis ver un enlace donde encontraréis los criterios de evaluación que se seguirán para valorar tanto el proceso como el resultado final. </p>
-<p><a href="https://docs.google.com/document/d/1MyU8yerSEXyu72o-OejNr6NNO2zH1Gsv/edit?usp=sharing&amp;ouid=109483787089410615221&amp;rtpof=true&amp;sd=true" title="">https://docs.google.com/document/d/1MyU8yerSEXyu72o-OejNr6NNO2zH1Gsv/edit?usp=sharing&amp;ouid=109483787089410615221&amp;rtpof=true&amp;sd=true</a></p>
+<p><a href="https://docs.google.com/document/d/1MyU8yerSEXyu72o-OejNr6NNO2zH1Gsv/edit?usp=sharing&ouid=109483787089410615221&rtpof=true&sd=true" title="">https://docs.google.com/document/d/1MyU8yerSEXyu72o-OejNr6NNO2zH1Gsv/edit?usp=sharing&ouid=109483787089410615221&rtpof=true&sd=true</a></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776858351554-15a8bzdeg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación podéis ver un enlace donde encontraréis los criterios de evaluación que se seguirán para valorar tanto el proceso como el resultado final. </p>\n<p><a href=\"https://docs.google.com/document/d/1MyU8yerSEXyu72o-OejNr6NNO2zH1Gsv/edit?usp=sharing&amp;ouid=109483787089410615221&amp;rtpof=true&amp;sd=true\" title=\"\">https://docs.google.com/document/d/1MyU8yerSEXyu72o-OejNr6NNO2zH1Gsv/edit?usp=sharing&amp;ouid=109483787089410615221&amp;rtpof=true&amp;sd=true</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776858351554-15a8bzdeg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación podéis ver un enlace donde encontraréis los criterios de evaluación que se seguirán para valorar tanto el proceso como el resultado final. </p>\n<p><a href=\"https://docs.google.com/document/d/1MyU8yerSEXyu72o-OejNr6NNO2zH1Gsv/edit?usp=sharing&ouid=109483787089410615221&rtpof=true&sd=true\" title=\"\">https://docs.google.com/document/d/1MyU8yerSEXyu72o-OejNr6NNO2zH1Gsv/edit?usp=sharing&ouid=109483787089410615221&rtpof=true&sd=true</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -878,19 +950,43 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1776858952407-o1cqizy11</odePageId>
+  <odePageId>page-moebgbwj-2vcugcs32</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>INSTRUMENTOS DE EVALUACIÓN </pageName>
-  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>INSTRUMENTOS DE EVALUACIÓN </value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INSTRUMENTOS DE EVALUACIÓN </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1776858952407-o1cqizy11</odePageId>
+      <odePageId>page-moebgbwj-2vcugcs32</odePageId>
       <odeBlockId>block-1776858955142-e3mjdxj2g</odeBlockId>
       <blockName>INSTRUMENTOS DE EVALUACIÓN</blockName>
       <iconName>explore</iconName>
@@ -919,7 +1015,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1776858952407-o1cqizy11</odePageId>
+          <odePageId>page-moebgbwj-2vcugcs32</odePageId>
           <odeBlockId>block-1776858955142-e3mjdxj2g</odeBlockId>
           <odeIdeviceId>idevice-1776858955140-avs2pydc1</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -931,6 +1027,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1776858955140-avs2pydc1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Usaremos dos instrumentos de evaluación: </p>\n<p>LISTA DE COTEJO: para evaluar el saber hacer y el saber ser. Nos centraremos en evaluar el comportamiento ( contacto visual, autorregulación, participación equitativa)</p>\n<p>RÚBRICA: para evaluar el saber pensar ( comprobar si sois capaces de entender emociones y comprender consecuencias que reparan el daño)</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -938,23 +1046,47 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1776859385844-bqrvxnrsc</odePageId>
+  <odePageId>page-moebgbwk-3hzfo9els</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>CRÉDITOS</pageName>
-  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>CRÉDITOS</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1776859385844-bqrvxnrsc</odePageId>
+      <odePageId>page-moebgbwk-3hzfo9els</odePageId>
       <odeBlockId>block-1776859387974-3jjf8nafx</odeBlockId>
-      <blockName>CRÉDITOS Y LICENCIA</blockName>
+      <blockName>CRÉDITOS Y LICENCIA &quot;descargar el archivo original elp.&quot;</blockName>
       <iconName>book</iconName>
-      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
@@ -979,20 +1111,33 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1776859385844-bqrvxnrsc</odePageId>
+          <odePageId>page-moebgbwk-3hzfo9els</odePageId>
           <odeBlockId>block-1776859387974-3jjf8nafx</odeBlockId>
           <odeIdeviceId>idevice-1776859387970-zpm3bbby1</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>Autor: Inmaculada Cuberos Casado</p>
+    <p><a href="CRÉDITOS Y LICENCIA "descargar el archivo original elp."" title="">CRÉDITOS Y LICENCIA "descargar el archivo original elp."</a></p>
+<p>Autor: Inmaculada Cuberos Casado</p>
 <p>Fecha: 22/04/2026</p>
 <p>Proyecto: Resolución de conflictos en ESO</p>
 <p>Licencia: Creative Commons ATribucion-Share alike 4.0 (BY-SA)</p>
 <p>Agradecimientos: agradecer la colaboración de nuestro tutor del curso Jaime Cores Vázquez</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776859387970-zpm3bbby1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autor: Inmaculada Cuberos Casado</p>\n<p>Fecha: 22/04/2026</p>\n<p>Proyecto: Resolución de conflictos en ESO</p>\n<p>Licencia: Creative Commons ATribucion-Share alike 4.0 (BY-SA)</p>\n<p>Agradecimientos: agradecer la colaboración de nuestro tutor del curso Jaime Cores Vázquez</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776859387970-zpm3bbby1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"CRÉDITOS Y LICENCIA \"descargar el archivo original elp.\"\" title=\"\">CRÉDITOS Y LICENCIA \"descargar el archivo original elp.\"</a></p>\n<p>Autor: Inmaculada Cuberos Casado</p>\n<p>Fecha: 22/04/2026</p>\n<p>Proyecto: Resolución de conflictos en ESO</p>\n<p>Licencia: Creative Commons ATribucion-Share alike 4.0 (BY-SA)</p>\n<p>Agradecimientos: agradecer la colaboración de nuestro tutor del curso Jaime Cores Vázquez</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
